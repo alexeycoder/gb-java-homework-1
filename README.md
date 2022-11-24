@@ -17,6 +17,19 @@
 
 *Результат работы программы:*
 
+![task2-example-1](https://user-images.githubusercontent.com/109767480/203815618-b104f206-fa3a-403f-a85a-55954a71b236.png)
+
+![task2-example-2](https://user-images.githubusercontent.com/109767480/203815636-eefc4162-cad7-470a-96a6-0fc721a18e6f.png)
+
+![task2-example-3](https://user-images.githubusercontent.com/109767480/203815666-8a899791-af2d-4b7f-85f4-88bfa358325a.png)
+
+![task2-example-4](https://user-images.githubusercontent.com/109767480/203815669-c673e616-6ec2-4c2b-a01e-cfe2e699c2d0.png)
+
+![task2-example-4b](https://user-images.githubusercontent.com/109767480/203815675-32dac0cc-268d-4d0f-8bd5-40f93e19aecf.png)
+
+![task2-example-5](https://user-images.githubusercontent.com/109767480/203815679-91556415-0e41-4d2b-9361-5003f3245ef1.png)
+
+![task2-example-6](https://user-images.githubusercontent.com/109767480/203815684-9cbaae20-d75f-4b93-ad44-3168404eb4e1.png)
 
 ### Задача №1
 
@@ -51,4 +64,5 @@
 
 *Результат работы программы:*
 
-
+![task1-example-1ed](https://user-images.githubusercontent.com/109767480/203815729-f0e5e01d-1497-4a8e-b805-f0437f5320bb.png)
+![task1-example-2ed](https://user-images.githubusercontent.com/109767480/203815780-559806fc-a0f5-4b97-b429-1d4bd10f02ee.png)
