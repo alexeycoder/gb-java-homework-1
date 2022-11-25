@@ -66,3 +66,8 @@
 
 ![task1-example-1ed](https://user-images.githubusercontent.com/109767480/203815729-f0e5e01d-1497-4a8e-b805-f0437f5320bb.png)
 ![task1-example-2ed](https://user-images.githubusercontent.com/109767480/203815780-559806fc-a0f5-4b97-b429-1d4bd10f02ee.png)
+
+*Хак с использованием мемоизации рекурсивной функции
+и минимизации метрик (подчитываются только общее число комбинаций и минимально возможное число шагов):*
+
+![task1-example-3](https://user-images.githubusercontent.com/109767480/204063155-1720ae37-fdf5-4ab6-8cf6-57bb2345f852.png)
